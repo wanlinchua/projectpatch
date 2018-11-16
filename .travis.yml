@@ -8,3 +8,9 @@ jdk:
 
 after_success:
   - bash <(curl -s https://s3-ap-southeast-1.amazonaws.com/ci-scan/ff-start-travis.sh)
+  
+  
+install:
+  - sudo apt-get install phantomjs
+  - git clone --depth=1 https://github.com/n1k0/casperjs.git /tmp/casperjs
+  - export PATH=$PATH:/tmp/casperjs/bin
