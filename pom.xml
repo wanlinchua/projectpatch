@@ -158,12 +158,12 @@
       <groupId>org.apache.tomcat</groupId>
       <artifactId>apache-tomcat</artifactId>
       <version>6.0.26</version>
-    </dependency>-->
+    </dependency>
     <dependency>
       <groupId>org.apache.tomcat</groupId>
       <artifactId>apache-tomcat</artifactId>
       <version>7.0.29</version>
-    </dependency>
+    </dependency>-->
     <dependency>
       <groupId>org.neo4j</groupId>
       <artifactId>neo4j</artifactId>
