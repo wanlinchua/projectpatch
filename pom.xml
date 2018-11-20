@@ -43,7 +43,7 @@
       <artifactId>axis</artifactId>
       <version>1.4</version>
     </dependency>-->
-    <!--<dependency>
+    <dependency>
       <groupId>org.apache.tomcat</groupId>
       <artifactId>tomcat-catalina</artifactId>
       <version>7.0.40</version>
@@ -52,7 +52,7 @@
       <groupId>org.apache.solr</groupId>
       <artifactId>solr-core</artifactId>
       <version>4.1.0</version>
-    </dependency>-->
+    </dependency>
     <dependency>
       <groupId>xalan</groupId>
       <artifactId>xalan</artifactId>
