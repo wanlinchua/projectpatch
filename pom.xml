@@ -143,10 +143,10 @@
       <artifactId>openmeetings-util</artifactId>
       <version>3.3.0</version>
    </dependency>
-   <dependency>
+   <!--<dependency>
       <groupId>ca.juliusdavies</groupId>
       <artifactId>not-yet-commons-ssl</artifactId>
       <version>0.3.17</version>
-    </dependency>
+    </dependency>-->
    </dependencies>
 </project>
