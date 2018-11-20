@@ -8,13 +8,13 @@
 
   <name>Black Duck CoPilot Example for Maven/Travis CI</name>
   <description>Provide an example of configuring a Maven project to use the Black Duck CoPilot application</description>
-  <url>https://github.com/wanlinchua/projectcve</url>
+  <url>https://github.com/wanlinchua/projectcve1</url>
   <inceptionYear>2017</inceptionYear>
 
   <scm>
     <connection>scm:git:git://github.com/blackducksoftware/hub-common.git/</connection>
-    <developerConnection>scm:git:git@github.com:wanlinchua/projectcve.git</developerConnection>
-    <url>https://github.com/wanlinchua/projectcve</url>
+    <developerConnection>scm:git:git@github.com:wanlinchua/projectcve1.git</developerConnection>
+    <url>https://github.com/wanlinchua/projectcve1</url>
   </scm>
 
   <properties>
